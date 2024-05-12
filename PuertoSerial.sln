@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuertoSerial", "PuertoSerial\PuertoSerial.csproj", "{A2505C39-99F4-47FC-ADF8-92B9D1A9E819}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{080B36D9-CE86-4296-8E6E-42E36DF93403}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2505C39-99F4-47FC-ADF8-92B9D1A9E819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2505C39-99F4-47FC-ADF8-92B9D1A9E819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2505C39-99F4-47FC-ADF8-92B9D1A9E819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2505C39-99F4-47FC-ADF8-92B9D1A9E819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90D1E29-2BC1-4A22-A596-10739CFC1532}
+	EndGlobalSection
+EndGlobal
